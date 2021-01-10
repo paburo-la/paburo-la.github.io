@@ -21,7 +21,6 @@
   - [作品2](作品2のURL)
 
 # Contact
-連絡先を書きましょう。
 
 - laevil10@yahoo.co.jp
 

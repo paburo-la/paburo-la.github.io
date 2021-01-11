@@ -24,4 +24,4 @@
 
 - laevil10@yahoo.co.jp
 
-![artist](goro`s.jpg)
+<img src="goro`s.jpg" width="200" height="200">

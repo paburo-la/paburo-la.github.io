@@ -20,12 +20,12 @@
   - [作品1](作品1のURL)
   - [作品2](作品2のURL)
   - dots&dots
-  <iframe src="https://www.openprocessing.org/sketch/1057552/embed/" width="400" height="300"></iframe>
+  <iframe src="https://www.openprocessing.org/sketch/1057552/embed/" width="600" height="450"></iframe>
 
 # Contact
 
 - laevil10@yahoo.co.jp
 
-<img src="goro`s.jpg" width="200" height="200">
+<img src="goro`s.jpg" width="300" height="300">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ila-hAUXR5U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
